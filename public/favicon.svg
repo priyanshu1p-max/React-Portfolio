@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Priyanshu Chhimwal monogram icon">
+  <defs>
+    <linearGradient id="pcg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7a59"/>
+      <stop offset="45%" stop-color="#ff3b4d"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0b1020"/>
+  <rect x="4" y="4" width="56" height="56" rx="15" fill="url(#pcg)" opacity="0.9"/>
+  <path d="M18 46V18h9.2c7.1 0 11.9 4.2 11.9 10.4 0 6.9-5 10.8-13.2 10.8H24V46h-6zm6-17.8h3.1c4 0 6.4-1.9 6.4-5.5 0-3.4-2.3-5.1-6.2-5.1H24v10.6z" fill="#fff"/>
+  <path d="M38 46h-6V18h6v28zm7.5-17.8h-2.8v-6.2h2.8v-6.2h6.1v6.2h2.7v6.2h-2.7v10.3h-6.1V28.2z" fill="#fff" opacity="0.96"/>
+</svg>
